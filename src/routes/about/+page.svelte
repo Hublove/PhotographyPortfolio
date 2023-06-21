@@ -47,7 +47,7 @@
         </div>
     </div>
 </div> -->
-<div class="flex flex-col w-full items-center py-6">
+<div class="flex flex-col items-center py-6">
     <div class="lg:w-11/12 mb-10">
         <div class="flex flex-col-reverse lg:flex-row">
                 <div class="flex flex-col">
