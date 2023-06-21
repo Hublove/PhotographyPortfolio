@@ -48,7 +48,7 @@
     
     const loadGallery = () =>
         
-        fetch("/src/" + category +".json")
+        fetch("/" + category +".json")
             .then((res) => {
                 if (!res.ok) throw new Error('Fetch error');
                 return res;
