@@ -9,7 +9,7 @@
 
 </script>
 
-<div class="mx-10 flex antialiased font-semibold font-body">
+<div class="px-10 flex antialiased font-semibold font-body">
     <div class="drawer drawer-mobile">
         <input bind:this={checkbox} id="my-drawer-2" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col items-center py-10 scrollbar-hide">
