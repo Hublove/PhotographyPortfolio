@@ -59,7 +59,7 @@
 
 
 
-<div id="images" class="flex flex-wrap justify-center gap-10 mx-3">
+<div id="images" class="flex flex-wrap justify-center gap-10 ">
     {#if imagesPromise}
         {#await imagesPromise}
             <h1>Loading...</h1>
