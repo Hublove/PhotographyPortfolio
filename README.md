@@ -12,6 +12,10 @@ Check out the live website: [Photography Portfolio](https://photography-portfoli
 * Contact: Reach out to the photographer using the contact form.
 * Responsive Design: The website is designed to be accessible and visually appealing on different devices.
 
+## Technologies Used
+* [Svelte](https://svelte.dev/): A modern JavaScript framework for building user interfaces.
+* [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
+
 ## Screenshots
 
 ## Installation
@@ -37,7 +41,3 @@ npm run dev
 ```
 
 This will compile the Svelte components and launch a local development server. Open your web browser and visit http://localhost:5000 to see the website in action.
-
-## Technologies Used
-* [Svelte](https://svelte.dev/): A modern JavaScript framework for building user interfaces.
-* [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
