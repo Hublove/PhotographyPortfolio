@@ -15,6 +15,8 @@ Check out the live website: [Photography Portfolio](https://photography-portfoli
 ## Technologies Used
 * [Svelte](https://svelte.dev/): A modern JavaScript framework for building user interfaces.
 * [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
+* [DaisyUI](https://daisyui.com/): A component library for Tailwind CSS that provides a collection of ready-to-use, customizable components, styles, and utilities.
+
 
 ## Screenshots
 
