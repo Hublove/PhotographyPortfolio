@@ -8,7 +8,7 @@
 
 
             <h1 class="mb-6 text-5xl font-bold">Pricing</h1>
-            <p class="font-semibold">Thank you for considering me as your portrait photographer! If you have any questions or special requests dont hesitate to get in contact with me so that we can better met your needs. Here is my pricing guide for portrait photography services based in Toronto:</p>
+            <p class="font-normal">Thank you for considering me as your portrait photographer! If you have any questions or special requests dont hesitate to get in contact with me so that we can better met your needs. Here is my pricing guide for portrait photography services based in Toronto:</p>
 
             <!-- <div class=" py-6 grid grid-rows-3 sm:divide-x divide-y-0 divide-y sm:grid-rows-none sm:grid-cols-3 "> -->
                 
