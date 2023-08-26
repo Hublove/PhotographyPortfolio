@@ -73,8 +73,7 @@
                             <div class="">
                                 <h1 class="block text-2xl font-medium"><a href="https://torontohardcore.ca/magazine">TORONTO HARDCORE MAGAZINE</h1>
                                 <p class="text-lg font-normal my-2">
-                                    Took photographs at Christie Pits rave featuring artists such as X, Y, Z. Artists reached out
-                                    and featured my work in their Toronto Rave culture magazine. 
+                                    Took photographs at a rave featuring artists such as Crushenhaus, TyriqueOrDie, Angelphroot & Jacinth and was featured in their Toronto Rave culture magazine
                                 </p>
                             </div>
                         </div>
