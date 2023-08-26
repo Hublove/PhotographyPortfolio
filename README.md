@@ -1,38 +1,45 @@
-# create-svelte
+# Sebs.vision
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Welcome to the Photography Portfolio Website project! This project showcases a beautifully designed portfolio website for a photography enthusiast. The website is built using the Svelte framework for the frontend and styled with Tailwind CSS for a modern and responsive user interface.
 
-## Creating a project
+Check out the live website: [Photography Portfolio](https://photography-portfolio-hublove.vercel.app/)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Features
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+* Gallery: Display a stunning collection of photographs categorized in various albums.
+* Album View: View images in full-screen mode with easy navigation between images in the same album.
+* About Page: Learn about the photographer through a dedicated "About Me" section.
+* Contact: Reach out to the photographer using the contact form.
+* Responsive Design: The website is designed to be accessible and visually appealing on different devices.
 
-# create a new project in my-app
-npm create svelte@latest my-app
+## Technologies Used
+* [Svelte](https://svelte.dev/): A modern JavaScript framework for building user interfaces.
+* [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
+* [DaisyUI](https://daisyui.com/): A component library for Tailwind CSS that provides a collection of ready-to-use, customizable components, styles, and utilities.
+
+
+## Screenshots
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+```javascript
+git clone https://github.com/Hublove/PhotographyPortfolio.git
+```
+2.  Navigate to the project directory:
+```javascript
+cd PhotographyPortfolio
+```
+3. Install the dependencies:
+```javascript
+npm install
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+## Usage
+After the installation, you can start a development server with hot-reloading using the following command:
+```javascript
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This will compile the Svelte components and launch a local development server. Open your web browser and visit http://localhost:5000 to see the website in action.
