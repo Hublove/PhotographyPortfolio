@@ -55,7 +55,7 @@
 
                     <h1 class="mt-6 text-5xl font-bold">Hi! I'm Sebastian!</h1>
                     <div class="flex flex-row items-center">
-                        <p class=" text-lg font-medium py-6">I am a Toronto-based photographer has a passion for capturing moments and creating images that tell stories. 
+                        <p class=" text-lg font-normal py-6">I am a Toronto-based photographer has a passion for capturing moments and creating images that tell stories. 
                             I specialize in portrait and street, but I am always looking for new challenges and opportunities to expand my horizons. 
                             I believe that every photo shoot is a chance to create something special, and I always strive to bring out the best in my subjects and capture the essence of the moment.
                             As a photographer, I am dedicated to creating a comfortable and collaborative environment for my clients. I understand that being in front of the camera can be intimidating, so I work closely with my clients to ensure that they feel relaxed and confident throughout the shoot.
@@ -65,24 +65,23 @@
 
                     </div>
                     <!-- <button class="btn btn-primary">Get Started</button> -->
-                    <h1 class="text-4xl font-bold pb-4 mt-10">
+                    <h1 class="mt-6 text-5xl font-semibold">
                         Notable Work
                     </h1>
                     <div class="grid gap-x-10 grid-cols-none sm:grid-cols-2 ">
-                        
-                        <div class="flex py-4 content-between justify-between  h-auto">
+                        <div class="flex pt-5 content-between justify-between h-auto">
                             <div class="">
-                                <h1 class="block text-2xl font-semibold"><a href="https://torontohardcore.ca/magazine">TORONTO HARDCORE MAGAZINE</h1>
-                                <p class="text-lg font-medium my-2">
+                                <h1 class="block text-2xl font-medium"><a href="https://torontohardcore.ca/magazine">TORONTO HARDCORE MAGAZINE</h1>
+                                <p class="text-lg font-normal my-2">
                                     Took photographs at Christie Pits rave featuring artists such as X, Y, Z. Artists reached out
                                     and featured my work in their Toronto Rave culture magazine. 
                                 </p>
                             </div>
                         </div>
-                        <div class="flex py-4 content-between justify-between  h-auto">
+                        <div class="flex py-4 content-between justify-between h-auto">
                             <div class="">
-                                <h1 class="block text-2xl font-semibold"><a href="https://torontohardcore.ca/magazine">PROJECTPROJECT13</a></h1>
-                                <p class="text-lg font-medium my-2">
+                                <h1 class="block text-2xl font-medium"><a href="/ProjectProjec13.pdf">PROJECTPROJECT13</a></h1>
+                                <p class="text-lg font-normal my-2">
                                     Art and Art History 1st and 2nd Year Exhibition 
                                 </p>
                             </div>

@@ -9,6 +9,8 @@
 
 </script>
 
+<!-- /logo.png -->
+
 <div class="mx-6 sm:mx-10 flex antialiased font-semibold font-body">
     <div class="drawer drawer-mobile">
         <input bind:this={checkbox} id="my-drawer-2" type="checkbox" class="drawer-toggle" />
@@ -17,7 +19,7 @@
             <div class=" w-full z-10 absolute h-auto top-0 grid grid-cols-4 bg-white lg:hidden">
                 <label for="my-drawer-2" class="justify-self-start self-center "><img class="m-6 md:m-10 w-8" src="/sidebar.png"></label>
                 <a class="col-span-2 flex flex-col justify-center items-center " href="/">
-                    <img class="md:w-3/5 w-4/5 h-auto" src="https://www.kadencewp.com/wp-content/uploads/2020/10/alogo-4.png">
+                    <img class="md:w-3/5 w-4/5 h-auto" src="/logo.png">
                 </a>
                 <!-- <div></div> -->
                
@@ -35,7 +37,7 @@
                 <!-- Sidebar content here -->
                 <label for="my-drawer-2" class="self-end lg:hidden"><img class="w-6" src="/close.png"></label>
                 <div class="pr-10">
-                    <a on:click={event => check()} href='/'><p class="w-full text-center"></p><img class="w-80" src="https://www.kadencewp.com/wp-content/uploads/2020/10/alogo-4.png"></a>
+                    <a on:click={event => check()} href='/'><p class="w-full text-center"></p><img class="w-80" src="/logo.png"></a>
                     <!-- <li on:click={event => check()} class=" w-full"><a href='/'><p class="w-full text-center"></p>Home</p></a></li> -->
                     <li on:click={event => check()} class="w-full"><a href='/about'><p class="w-full text-center">About</p></a></li>
                     <div class=" dropdown  p-3 w-full grid grid-cols-1 place-content-center hover:bg-neutral-200">
