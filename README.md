@@ -2,7 +2,7 @@
 
 Welcome to the Photography Portfolio Website project! This project showcases a beautifully designed portfolio website for a photography enthusiast. The website is built using the Svelte framework for the frontend and styled with Tailwind CSS for a modern and responsive user interface.
 
-Check out the live website: [Photography Portfolio](https://photography-portfolio-hublove.vercel.app/)
+Check out the live website: [Photography Portfolio](sebs.vision)
 
 ## Features
 
