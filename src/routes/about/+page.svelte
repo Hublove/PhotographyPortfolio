@@ -55,12 +55,12 @@
 
                     <h1 class="mt-6 text-5xl font-bold">Hi! I'm Sebastian!</h1>
                     <div class="flex flex-row items-center">
-                        <p class=" text-lg font-normal py-6">I am a Toronto-based photographer has a passion for capturing moments and creating images that tell stories. 
-                            I specialize in portrait and street, but I am always looking for new challenges and opportunities to expand my horizons. 
-                            I believe that every photo shoot is a chance to create something special, and I always strive to bring out the best in my subjects and capture the essence of the moment.
+                        <p class=" text-lg font-normal py-6">I am a Toronto-based photographer who has a passion for capturing moments and creating images that tell stories.
+                            I specialize in portrait and street photography, but I am always looking for new challenges and opportunities to expand my horizons. 
+                            I believe that every photoshoot is a chance to create something special, and I always strive to bring out the best in my subjects and capture the essence of the moment.
                             As a photographer, I am dedicated to creating a comfortable and collaborative environment for my clients. I understand that being in front of the camera can be intimidating, so I work closely with my clients to ensure that they feel relaxed and confident throughout the shoot.
-                            Whether you are looking for a portrait session, event coverage, or something completely unique, I am here to help bring your vision to life. I am excited to hear about your ideas and work together to create something beautiful.
-                            Thank you for taking the time to visit my portfolio. I hope you enjoy my work and feel inspired to create your own memories through the lens of a camera.</p>
+                            Whether you are looking for a portrait session, event coverage, or something completely unique, I am here to help bring your vision to life. I am excited to hear about your ideas and am ready to work together to create something beautiful.
+                            </p>
                         <img src="/face.jpg" class="lg:block hidden lg:mb-10 mb-10 lg:ml-20 aspect-square lg:w-80 lg:h-80 rounded-lg shadow-2xl" />
 
                     </div>

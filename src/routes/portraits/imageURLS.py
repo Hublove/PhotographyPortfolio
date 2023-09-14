@@ -5,7 +5,7 @@ from PIL import Image
 import os
 # assign directory
 # Portraits Events Travel Street
-category = "Travel" #CHANGE THIS
+category = "Street" #CHANGE THIS
 directory = 'static/' + category
 images = []
  
