@@ -10,50 +10,8 @@
             <h1 class="mb-6 text-5xl font-bold">Pricing</h1>
             <p class="font-normal">Thank you for considering me as your portrait photographer! If you have any questions or special requests dont hesitate to get in contact with me so that we can better met your needs. Here is my pricing guide for portrait photography services based in Toronto:</p>
 
-            <!-- <div class=" py-6 grid grid-rows-3 sm:divide-x divide-y-0 divide-y sm:grid-rows-none sm:grid-cols-3 "> -->
-                
-                
-                
-                <!-- Personal Portraits  -->
-                <!-- <div class=" m-4 drop-shadow-xl drop card-body items-center text-center bg-gray-900">
-                    <h2 class="card-title text-2xl">Personal Portraits</h2>
-                    <p class="font-normal italic text-lg">Starting at $150</p>
-                    <span class="w-full my-2 pt-0.5 bg-gray-300"></span>
-                    <div class="py-4 font-normal text-left h-full">
-                        <p> ❖ One look</p>
-                        <p> ❖ Choice of black or white backdrop</p>
-                        <p> ❖ One professionally retouched image</p>
-                        <p> ❖ Online gallery of 20-40 shots</p>
-                    </div>
-                </div> -->
-                <!-- Business Headshots  -->
-                <!-- <div class=" m-4 drop-shadow-xl drop card-body items-center text-center bg-gray-900">
-                    <h2 class="card-title text-2xl">Business Headshots</h2>
-                    <p class="font-normal italic text-lg">Starting at $250</p>
-                    <span class="w-full my-2 pt-0.5 bg-gray-300"></span>
-                    <div class="py-4 font-normal text-left h-full">
-                        <p> ❖ One look</p>
-                        <p> ❖ Choice of black or white backdrop</p>
-                        <p> ❖ One professionally retouched image</p>
-                        <p> ❖ Online gallery of 20-40 shots</p>
-                    </div>
-                </div> -->
-                <!-- Add-Ons  -->
-                <!-- <div class=" m-4 drop-shadow-xl drop card-body items-center text-center bg-gray-900">
-                    <h2 class="card-title text-2xl">Add-ons</h2>
-                    <p class="font-normal italic text-lg">Extra</p>
-                    <span class="w-full my-2 pt-0.5 bg-gray-300"></span>
-                    <div class="py-4 font-normal text-left h-full">
-                        <p> ❖ $30 per additional retouched image</p>
-                        <p> ❖ $100 per extra hour</p>
-                        <p> ❖ $20 per extra look</p>
-                    </div>
-                </div> -->
-
-            <!-- </div> -->
-
-            <div class="flex sm:flex-row flex-col justify-around mt-8">
-                <div class="border border-black sm:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
+            <div class="flex lg:flex-row flex-col justify-around mt-8">
+                <div class="border border-black lg:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
                     <h2 class="text-2xl">Personal Portraits</h2>
                     <p class="font-normal italic text-lg">Starting at $150</p>
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
@@ -64,7 +22,7 @@
                         <p> ❖ Online gallery of 20-40 shots</p>
                     </div>
                 </div>
-                <div class="border border-black sm:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
+                <div class="border border-black lg:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
                     <h2 class="text-2xl">Business Headshots</h2>
                     <p class="font-normal italic text-lg">Starting at $250</p>
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
@@ -76,7 +34,7 @@
                         <p> ❖ Online gallery of 20-40 shots</p>
                     </div>
                 </div>
-                <div class="border border-black sm:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
+                <div class="border border-black lg:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
                     <h2 class="text-2xl">Add-ons</h2>
                     <p class="font-normal italic text-lg">Extra</p>
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
