@@ -17,7 +17,6 @@
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
                     <div class="py-4 font-normal text-left">
                         <p> ❖ 1 hour session </p>
-                        <p> ❖ 1 look</p>
                         <p> ❖ One professionally retouched image</p>
                         <p> ❖ Online gallery of 20-40 shots</p>
                     </div>
@@ -28,7 +27,6 @@
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
                     <div class="py-4 font-normal text-left">
                         <p> ❖ 0.5 hour session </p>
-                        <p> ❖ 1 look</p>
                         <p> ❖ Choice of backdrop </p>
                         <p> ❖ One professionally retouched image</p>
                         <p> ❖ Online gallery of 20-40 shots</p>
@@ -41,7 +39,6 @@
                     <div class="py-4 font-normal text-left">
                         <p> ❖ $20 per extra look</p>
                         <p> ❖ $30 per additional retouched image</p>
-                        <p> ❖ $100 for off location shots</p>
                         <p> ❖ $100 per extra hour</p>
                     </div>
                 </div>
@@ -55,7 +52,7 @@
                         What To Expect During Your Photo Shoot?
                     </div>
                     <div class="drop-shadow-xl border-black border collapse-content bg-stone-50">
-                        <p class="font-normal mt-3">During your photo shoot, you can expect a professional and friendly atmosphere where your vision and preferences are valued. Our experienced photographers will guide you through poses and compositions to capture your unique personality and create stunning images. The duration of the shoot will depend on the package you choose. After the session, we carefully select and edit the top-quality images for you to review and choose from. You can expect timely delivery of the final edited photos, typically within two weeks. Our goal is to make your photo shoot a memorable and enjoyable experience!</p>
+                        <p class="font-normal mt-3">During your photo shoot, you can expect a professional and friendly atmosphere where your vision and preferences are valued. I will guide you through various poses and compositions to capture your unique personality and create stunning images. After the session, you will receive a Google Drive link which contains your images. From there you can review and choose which images you'd like retouched. You can expect timely delivery of the final edited photos, typically within two weeks.</p>
                     </div>
                 </div>
                 <div class=" my-4  collapse">
@@ -64,7 +61,7 @@
                         How Do I See My Photographs?
                     </div>
                     <div class="drop-shadow-xl border-gray-900 border collapse-content bg-stone-50">
-                        <p class="font-normal mt-3">Within 24hrs of your shoot you will be emailed a Google Drive link with watermarked gallery of your shoot. If you have not discussed with your photographer during the shoot which photos you want retouched you can make your selection here. Within 2 weeks of your shoot you will be emailed a seperate Google Drive link with your retouched photos.</p>
+                        <p class="font-normal mt-3">Within 24hrs of your shoot you will be emailed a Google Drive link with a gallery of your shoot. You can make your selection here on which of your images you'd like retouched. Within 2 weeks of your shoot you will be emailed a separate Google Drive link with your retouched photos.</p>
                     </div>
                 </div>
                 <div class=" my-4  collapse">
