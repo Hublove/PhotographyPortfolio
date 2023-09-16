@@ -13,7 +13,7 @@
             <div class="flex lg:flex-row flex-col justify-around mt-8">
                 <div class="border border-black lg:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
                     <h2 class="text-2xl">Personal Portraits</h2>
-                    <p class="font-normal italic text-lg">Starting at $150</p>
+                    <p class="font-normal italic text-lg">Starting at $250</p>
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
                     <div class="py-4 font-normal text-left">
                         <p> ❖ 1 hour session </p>
@@ -23,7 +23,7 @@
                 </div>
                 <div class="border border-black lg:w-1/3 py-6 px-8 m-6 drop-shadow-xl items-center text-center bg-stone-50">
                     <h2 class="text-2xl">Business Headshots</h2>
-                    <p class="font-normal italic text-lg">Starting at $250</p>
+                    <p class="font-normal italic text-lg">Starting at $350</p>
                     <hr class="mt-4 mb-2 h-0.5 border-t-0 bg-black opacity-70" />
                     <div class="py-4 font-normal text-left">
                         <p> ❖ 0.5 hour session </p>
